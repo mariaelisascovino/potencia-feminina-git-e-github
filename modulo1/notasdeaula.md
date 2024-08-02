@@ -1,5 +1,8 @@
 ## Notas de aula do Módulo 1
 
-### Notas 1
+### Instalação do git
 
-### Notas 2
+### Configuração do git
+
+
+### Comandos
