@@ -9,3 +9,6 @@
 
 ### git add [caminho do arquivo]
 **adiciona um arquivo específico**
+
+
+### git commit
